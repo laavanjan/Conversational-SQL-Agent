@@ -2,8 +2,8 @@
 # 🦜 SQLChat: Converse with Your Databases using AI! 💬
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
 Dive into the world of conversational data exploration with SQLChat! 🚀 This project empowers you to interact with your SQL databases using natural language, thanks to the magic of LangChain, open-source LLMs (via Groq), and Streamlit.  Ask questions in plain English and get instant answers from your data! 🤖  Currently, SQLChat focuses on `SELECT` queries, enabling you to retrieve and analyze your data with ease.
+![alt_image](image/img1.png)
 
 ## ✨ Features
 
@@ -15,9 +15,19 @@ Dive into the world of conversational data exploration with SQLChat! 🚀 This p
 * **Customizable Settings:** Easily configure the database connection details and Groq API key. ⚙️
 * **Open Source and GPL Licensed:**  Freely use, modify, and distribute the code under the GPL license. 🧑‍💻
 
-## 🖼️ Screenshots (Coming Soon)
+## 🖼️ 📸 Example Usage(Questions and their answers, Click to view)
 
-*(Placeholder for screenshots showcasing the application's interface and features)*
+| Using **SQLite** | Using **SQLite** | Using **SQLite** |
+|---------|---------|---------|
+| ![alt_image](image/img2.png) | ![alt_image](image/img3.png) |![alt_image](image/img4.png) |
+| Using **MYSQL** | Using **MYSQL** | MYSQL TABLE |
+| ![alt_image](image/img5.png) |![alt_image](image/img6.png) | ![alt_image](image/img7.png) |
+| Using **MYSQL** | Using **MYSQL** | Using **MYSQL** |
+| ![alt_image](image/img8.png) |![alt_image](image/img9.png) | ![alt_image](image/img10.png) |
+|  **MYSQL** interface| **SQLite** interface| 
+| ![alt_image](image/img11.png) |![alt_image](image/img12.png) | |
+
+*(Screenshots showcasing the application's interface and features click to view)*
 
 ## 🛠️ Installation (Conda Recommended)
 
